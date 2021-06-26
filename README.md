@@ -8,7 +8,7 @@ Simple use of the Gauss-Newton method for iterative optimization in the script.
 
 #### Demo
 
-Use demo.m to reproduce results
+Use [demo.m](/demo.m) to reproduce results. Result will be saved in [/model](/model).
 
 The demo provides a BA simulation method. We created 20 cameras and 500 map points for simulation. The ground truth of the simulation is shown in the figure below.
 
