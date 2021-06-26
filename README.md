@@ -33,4 +33,4 @@ iter 6 : error = 19287.2 , error_mean = 0.982019 Elapsed time is 3.044613 second
 
 #### Time test
 
-In my simple test, I found that the optimization speed using [ceres](https://github.com/ceres-solver/ceres-solver) is about 150 times that of matlab.
+In my simple test, I found that the optimization speed using [ceres](https://github.com/ceres-solver/ceres-solver) is about 150 times faster than matlab.
